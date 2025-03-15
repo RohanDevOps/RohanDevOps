@@ -8,19 +8,20 @@
 ---
 
 # 👋 Hi, I'm Rohan Naagar    
-I'm Rohan Naagar, a DevOps engineer and tech enthusiast! 🚀
+I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
 
-Welcome to my GitHub profile! I'm passionate about **DevOps**, **Cloud Computing**, and **Automation**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Infrastructure as Code (IaC)**, **CI/CD Pipelines**, and **Cloud-Native Development**. 
+
+Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
 # 💫 About Me:
-💬 I'm Rohan Naagar  
-⚡ Currently working as a DevOps Engineer  
-🤝 I’m looking for help with optimizing CI/CD pipelines and Kubernetes orchestration.  
-👀 I’m currently learning **Terraform**, **Kubernetes**, **Ansible**, and **Cloud-Native Technologies**.  
-🌱 Research Interests: **DevOps Automation**, **Cloud Security**, and **Scalable Infrastructure**.  
-😊 I build technologies that make development and deployment seamless!  
-⚡ Nothing is finite  
-📍 Gurugram, Haryana  
+💬I'm Rohan Naagar<br>
+⚡Work at -  <br>
+🤝 I’m looking for help with Algorithms.<br>
+👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.<br>
+🌱 Research Interests: Deep Learning, OpenCV, LLMs.<br>
+😊 Build technologies that increase the cumulative density of magic in the world!<br>
+⚡ Nothing is finite<br>
+📍 Gurugram, Haryana<br>
 
 
 ## 🕸️ **Websites**   
@@ -40,14 +41,22 @@ Welcome to my GitHub profile! I'm passionate about **DevOps**, **Cloud Computing
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
 
 ## 🏆 **Professional & Developer Platforms**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)  [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google&logoColor=white)](https://www.commudle.com/users/RohanCyberOps)  [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/rohancyberops)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)   [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google&logoColor=white)](https://www.commudle.com/users/RohanCyberOps)  [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/rohancyberops)  
 
 ## 💻 **Developer & Open Source**  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  
 
+## 😈 **Ethical Hacker**  
+[![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23181717.svg?logo=hackerone&logoColor=white)](https://hackerone.com/rohancyberops)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-%2300FF41.svg?logo=Hack%20The%20Box&logoColor=white)](https://app.hackthebox.com/profile/rohancyberops)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RohanCyberOps)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/rohancyberops)
+
 
 ## 🎮 **Streaming & Video Platforms**  
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/RohanCyberOps)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/RohanCyberOps)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1139736828929384548)
+
 
 
 
@@ -284,10 +293,12 @@ Welcome to my GitHub profile! I'm passionate about **DevOps**, **Cloud Computing
 
 ## ⚠️ Disclaimer  
 
->> 🛠 **Note:** The technologies and tools mentioned in my profile, projects, or discussions are for reference purposes only. While I have experience working with them and am familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills. 🚀🔍 
-
+>> 🛠 **Note:** The technologies and tools mentioned in my profile, projects, or discussions are for reference purposes only. While I have experience working with them and am familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills. 🚀🔍
 
 ---
+# 📊 Stats:
+<img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" alt="Your Image Badge" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RohanDevOps&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RohanDevOps&theme=flag-india&hide_border=false)  
