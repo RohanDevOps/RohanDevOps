@@ -44,7 +44,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)   [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google&logoColor=white)](https://www.commudle.com/users/RohanCyberOps)  [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/rohancyberops)  
 
 ## 💻 **Developer & Open Source**  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  
+[![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=Gitlab&logoColor=white)](https://Gitlab.com/RohanCyberOps)  [![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://Github.com/RohanCyberOps)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.com/RohanCyberOps)  
+
 
 ## 😈 **Ethical Hacker**  
 [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
