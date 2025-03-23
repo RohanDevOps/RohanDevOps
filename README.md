@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="dev.gif" style="width:100vw; height:330vh; object-fit:cover;">
+  <img src="dev.gif" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
 ---
