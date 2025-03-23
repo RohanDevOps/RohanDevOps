@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" style="width:100vw; height:40vh; object-fit:cover;">
+  <img src="dev.gif" style="width:100vw; height:330vh; object-fit:cover;">
 </p>
 
 ---
