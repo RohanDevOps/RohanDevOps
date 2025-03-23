@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="dev.gif" style="width:100vw; height:30vh; object-fit:cover;">
+  <img src="dev.gif" style="width:100vw; height:40vh; object-fit:cover;">
 </p>
 
 ---
@@ -318,7 +318,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ---
 
 <p align="center">
-  <img src="code.gif" style="width:100vw; height:40vh; object-fit:cover;">
+  <img src="code.gif" style="width:100vw; height:50vh; object-fit:cover;">
 </p>
 
 ---
