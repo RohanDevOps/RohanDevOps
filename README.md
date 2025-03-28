@@ -48,6 +48,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ## 💻 **Developer & Open Source**  
 [![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=Gitlab&logoColor=white)](https://Gitlab.com/RohanCyberOps)  [![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://Github.com/RohanCyberOps)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.com/RohanCyberOps)  
 
+## 🎗️ **Programming Profiles**  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rohandevops/)
 
 ## 😈 **Ethical Hacker**  
 [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
