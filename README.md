@@ -49,7 +49,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 [![Gitlab](https://img.shields.io/badge/Gitlab-%23FC6D26.svg?logo=Gitlab&logoColor=white)](https://Gitlab.com/RohanCyberOps)  [![Github](https://img.shields.io/badge/Github-%23000000.svg?logo=Github&logoColor=white)](https://Github.com/RohanCyberOps)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=Bitbucket&logoColor=white)](https://bitbucket.com/RohanCyberOps)  
 
 ## 🎗️ **Programming Profiles**  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rohandevops/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rohandevops/)  [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?logo=coursera&logoColor=white)](https://www.coursera.org/user/f3bdf7152cfb4a2af572afdc67e2ca3b)  [![Codecademy](https://img.shields.io/badge/Codecademy-%231E415E.svg?logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/RohanDevOps)  [![Udemy](https://img.shields.io/badge/Udemy-%23EC5252.svg?logo=udemy&logoColor=white)](https://www.udemy.com/user/rohan-naagar/)  
+
 
 ## 😈 **Ethical Hacker**  
 [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
