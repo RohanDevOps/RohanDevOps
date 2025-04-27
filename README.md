@@ -15,16 +15,19 @@ I'm Rohan Naagar, a Software engineer and tech enthusiast! 🚀
 
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
+
 # 💫 About Me:
 💬I'm Rohan Naagar<br>
 ⚡Work at -  <br>
 🤝 I’m looking for help with Algorithms.<br>
-👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.<br>
+👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning(ML), Deep Learning, Natural Language Processing(NLP) and Large Language Models(LLM).<br>
 🌱 Research Interests: Deep Learning, OpenCV, LLMs.<br>
 😊 Build technologies that increase the cumulative density of magic in the world!<br>
 ⚡ Nothing is finite<br>
 📍 Gurugram, Haryana<br>
 
+## 📨 **Fops Inc** 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yTn24kCQ) [![More](https://img.shields.io/badge/MORE-0055A4?style=flat-square&logo=Inc)](ComingSoon)
 
 ## 🕸️ **Websites**  
 [![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io) [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-0000FF?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
@@ -325,13 +328,24 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![AI](https://img.shields.io/badge/AI-Focused-9cf)
 ![AGI](https://img.shields.io/badge/AGI-Research%20Interest-blueviolet)
 
+---
 
 # 📊 Stats:
-<a href="https://tryhackme.com/p/RohanCyberOps" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" 
-         alt="TryHackMe Badge - RohanCyberOps" 
-         style="max-width: 100%; height: auto;" />
-</a>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <a href="https://tryhackme.com/p/RohanCyberOps" target="_blank" rel="noopener noreferrer">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" 
+             alt="TryHackMe Badge - RohanCyberOps" 
+             style="max-width: 300px; width: 50%; height: auto;">
+    </a>
+    <a href="https://app.hackthebox.com/profile/2313221" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.hackthebox.com/badge/image/2313221.png" 
+             alt="Hack The Box Badge - RohanCyberOps" 
+             style="max-width: 300px; width: 50%; height: auto;">
+    </a>
+</div>
+
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RohanDevOps&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
